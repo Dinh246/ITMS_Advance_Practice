@@ -2,7 +2,7 @@
   "id": "faa5fb0e-241e-465a-90c0-b1f124394b5b",
   "version": "2.0",
   "name": "ITMS_Advanced_Practice",
-  "url": "https://itmscoaching.herokuapp.com",
+  "url": "https://itmscoaching.herokuapp.com/switch-window",
   "tests": [{
     "id": "e4182072-1b14-41bd-bcb2-b1f5885947c9",
     "name": "Untitled",
